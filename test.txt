@@ -1,1 +1,3 @@
 "test" 
+This is test corret in Notepade.
+If evrything work, it`s a fist step tu programming 
